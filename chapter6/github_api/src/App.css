@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  padding-left: 20px;
+}
+
+.App table td {
+  text-align: left;
+  padding: 5px;
+}
+
+.App h1 {
+  text-align: left;
+}

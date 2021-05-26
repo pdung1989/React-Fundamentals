@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.App h1 {
+  color: rgb(38, 91, 235)
+}
+
